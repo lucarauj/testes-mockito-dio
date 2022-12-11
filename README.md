@@ -1,3 +1,5 @@
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/lucarauj/testes-mockito-dio/blob/main/LICENSE)
+
 <h1 align="center"> Desenvolvendo testes utilizando Mockito </h1>
 
 ### Adicionando dependências Mockito no projeto (`pom.xml`):
